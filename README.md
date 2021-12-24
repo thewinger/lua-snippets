@@ -1,23 +1,4 @@
-[![Install](https://vsmarketplacebadge.apphb.com/installs-short/pulkitgangwar.nextjs-snippets.svg)](https://vsmarketplacebadge.apphb.com/installs-short/pulkitgangwar.nextjs-snippets.svg)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/pulkitgangwar.nextjs-snippets.svg)](https://vsmarketplacebadge.apphb.com/downloads-short/pulkitgangwar.nextjs-snippets.svg)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating-star/pulkitgangwar.nextjs-snippets.svg)](https://vsmarketplacebadge.apphb.com/rating-star/pulkitgangwar.nextjs-snippets.svg)
-
-# Next.js Snippets
-
-Latest snippets for next.js
-
-![next js-snippets-gif](https://user-images.githubusercontent.com/50038851/85401251-59c46400-b577-11ea-9eb3-a8ed916c711e.gif)
-
-## Installation
-
-- install the extension
-- reload vscode
-- snippets will be ready to use
-
-## Language
-
-- [JavascriptReact](#javascript)
-- [TypescriptReact](#typescript)
+Snippets compatible with Luasnip for NextJS
 
 # Javascript
 
