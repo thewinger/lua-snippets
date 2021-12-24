@@ -1,5 +1,5 @@
 {
-  "name": "lua-snippets",
+  "name": "next-snippets",
   "engines": {
     "vscode": "^1.11.0"
   },
@@ -10,11 +10,14 @@
           "typescript",
           "typescriptreact"
         ],
-        "path": "ts-next.json"
+        "path": "./snippets/ts-next.json"
       },
       {
-        "language": "javascriptreact",
-        "path": "js-next.json"
+        "language": [
+          "javascript",
+          "javascriptreact"
+        ],
+        "path": "./snippets/js-next.json"
       }
     ]
   }
